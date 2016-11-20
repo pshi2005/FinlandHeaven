@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+    <h1>User Login</h1>
+    <form id="my_form" method="POST" class="post-form" action="" onsubmit="myFunction()">
+        {% csrf_token %}
+
+        {{ form.as_p }}
+        <button type="submit" class="save btn btn-default">Submit</button>
+    </form>
+
+<script language="JavaScript">
+
+function myFunction()
+{
+    var action_src = "http://localhost/users/" + "wassup";
+    var your_form = document.getElementById('your_form');
+    your_form.action = action_src ;
+}
+</script>
+
+
+</body>
+</html>
+
