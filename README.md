@@ -7,7 +7,7 @@ Many of the world problems can be solved by enforcing a transparent and efficien
 # What it does
 Using Ether cryptocurrency, we are creating an automated platform for income tax systems, ensuring financial transparency and efficiency, since governments of all levels and organizations (including nonprofits) do not file their own taxes.
 
-With smart contracts, all taxes are transparent, since each user has a unique hash that contains their taxation level, and this hash to available to the government and relevant organizations.
+With smart contracts, all taxes are transparent, since each user has a unique hash that contains their taxation level, and this hash is available to the government and relevant organizations.
 
 # BlockApps Install:
 http://www.blockapps.net/dashboard/quick-starts/bloc-keyserver
