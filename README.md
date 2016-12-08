@@ -1,5 +1,5 @@
 # FinlandHeaven
-A blockchain-based platform that enforces fair, transparent taxation using Ethereum. For HackDuke 2016: Code for Good. Winner of the ConsenSys Award for Best Use of Blockchain.
+A blockchain-based platform that enforces fair, transparent taxation using Ethereum. For HackDuke 2016: Code for Good. Winner of the ConsenSys Award for Best Use of Blockchain. Check out our Devpost here: https://devpost.com/software/finlandheaven.
 
 # Inspiration
 Many of the world problems can be solved by enforcing a transparent and efficient taxation system. Using Ethereum, we want to enable governments and organizations, especially nonprofits (such as the Community Empowerment Fund), to promote transparent, fair taxation with smart contracts.
